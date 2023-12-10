@@ -1,5 +1,7 @@
 mod arch;
+mod ir;
 mod output_format;
+
 use arch::Arch;
 use output_format::OutputFormat;
 
